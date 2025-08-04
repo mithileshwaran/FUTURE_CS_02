@@ -62,8 +62,8 @@ This task reflects the foundational work of real-world SOC teams in monitoring a
 
 ## 📁 Files Included
 
-- `Incident_Report.pdf` – Final incident response documentation  
-- `Malware_Troject_alert.png` – Malware detection log  
+- `Security Alert Monitoring & Incident report.pdf` – Final incident response documentation  
+- `Malware_Detection_Splunk.png` – Malware detection log  
 - `Failed_Login_Attempts_Splunk.png` – Brute-force login screenshot  
 - `High_Host_Activity_Splunk.png` – Host activity spike  
 - `Port_Scan_Activity_Splunk.png` – Detected port scan activity  
